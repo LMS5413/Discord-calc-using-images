@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "mathjs": "^9.4.4",
+    "tesseract.js": "^2.1.5"
+  }
+}

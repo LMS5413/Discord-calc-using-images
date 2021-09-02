@@ -1,0 +1,5 @@
+node_modules/
+eng.traineddata
+index.py
+package-lock.json
+RfEstHd.png
